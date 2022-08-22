@@ -1,0 +1,70 @@
+#website_header {
+	font-size: 120px;
+	font-style: italic;
+	background-image: url('muchaspelotas.jpg');
+	height: 250px;
+	color: whitesmoke;
+
+}
+#all {
+	width: 50%;
+	float: left;
+}
+
+ul {
+	float: right;
+	
+	
+
+
+}
+li {
+	display: inline-block;
+	padding-right: 60px;
+	color: whitesmoke;
+	font-size: 20px;
+
+
+	
+}
+h1 {
+	font-size: 40px;
+	margin-left: 200px;
+	margin-top: 150px;
+}
+#mbappe {
+	margin-left: 200px;
+	
+}
+p {
+	font-size: 30px;
+	margin-left: 80px;
+}
+#sideBar {
+	float: right;
+	width: 48%;
+	
+
+}
+.haland {
+	width: 900px;
+	font-size: 30px;
+	margin-left: 80px;
+	margin-top: 50px;
+}
+h2 {
+	font-size: 40px;
+	margin-left: 260px;
+	margin-top: 150px;
+}
+
+h3 {
+
+	background-color: #95a5a6;
+	height: 200px;
+	font-size: 40px;
+
+}
+#theback {
+	margin-top: 242px;
+}
